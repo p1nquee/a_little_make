@@ -1,10 +1,10 @@
-#Method 1
+###Method 1###
 
 
 final:
 		gcc main.c add.c hello.c -o final
 		
-#Method 2
+###Method 2###
 
 
 #$(cc) = gcc
@@ -15,7 +15,7 @@ final:
 #	rm *.o final
 
 
-#Method 3
+###Method 3###
 
 
 #$(CC) = gcc
